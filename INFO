@@ -1,0 +1,10 @@
+{
+	"name": "File-share.top",
+	"hostprefix": "file-share.top",
+	"displayname": "File-share.top",
+	"version": "1.0",
+	"authentication": "yes",
+	"module": "host.php",
+	"class": "FileShareTop",
+	"description": "Only premium account supported."
+}
